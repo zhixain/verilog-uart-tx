@@ -23,7 +23,7 @@
 | busy  | output | 傳輸中旗標            |
 
 ## 模擬波形
-(waveform.png)
+![波形圖](waveform.png)
 
 波形驗證：
 - 0x55(01010101) 與 0xA3 兩筆資料傳輸正確
